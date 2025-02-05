@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     
     double n1, n2, n3;
-
+    cout<<"HELLO";
     cout << "Enter three numbers: ";
     cin >> n1 >> n2 >> n3;
 
